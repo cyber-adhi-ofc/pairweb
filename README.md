@@ -1,1 +1,1 @@
-# pairweb
+# PAIR-WEB-SC
